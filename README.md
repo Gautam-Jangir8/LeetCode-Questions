@@ -18,3 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0389-find-the-difference) |
+# Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0389-find-the-difference) |
+# String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0389-find-the-difference) |
+# Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0389-find-the-difference) |
