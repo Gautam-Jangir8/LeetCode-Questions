@@ -2,17 +2,19 @@ class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
         int n = nums.size();
-        int index = 0;
+        int cnt = 0;
 
-        for(int i=0; i<n; i++)
+        for (int i = 0; i < n; i++)
         {
-            if(nums[i]!=val)
+            if (nums[i] == val)
             {
-                nums[index] = nums[i];
-                index++;
+                nums[i] = INT_MAX;
+                cnt++;
             }
         }
 
-        return index;
+        sort(nums.begin(), nums.end());
+
+        return n-cnt;
     }
 };
