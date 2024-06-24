@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0260-single-number-iii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1580-shuffle-the-array) |
 # Two Pointers
@@ -57,3 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+# Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
