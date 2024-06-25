@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0260-single-number-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
