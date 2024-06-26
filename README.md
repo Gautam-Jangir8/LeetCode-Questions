@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0260-single-number-iii) |
+| [0371-sum-of-two-integers](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0389-find-the-difference) |
 # Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
 # Recursion
 |  |
 | ------- |
