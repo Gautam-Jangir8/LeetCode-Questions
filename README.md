@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
