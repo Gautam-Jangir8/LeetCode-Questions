@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0502-ipo](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1137-height-checker) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
