@@ -10,21 +10,17 @@
  */
 class Solution {
 public:
-    ListNode* recursion(ListNode* head) {
-        ListNode* curr = head;
-        ListNode* prev = NULL;
-        ListNode* next;
-
-        while(curr!=NULL) {
-            next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
-        return prev;
-    }
-
     ListNode* reverseList(ListNode* head) {
-        return recursion(head);
+        // If only single node or no node is left return that
+        if(head==NULL || head->next==NULL) {
+            return head;
+        }
+
+        ListNode* newHead = reverseList(head->next);
+        ListNode* front = head->next;
+        front->next = head;
+        head->next = NULL;
+
+        return newHead;
     }
 };
