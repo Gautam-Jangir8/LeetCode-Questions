@@ -10,39 +10,24 @@
  */
 class Solution {
 public:
-    // Function to revesre the Linked List
-    ListNode* reverse(ListNode* head) {
-        ListNode* curr = head;
-        ListNode* nex;
-        ListNode* prev = NULL;
-
-        while(curr!=NULL) {
-            nex = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nex;
-        }
-
-        return prev;
-    }
-
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        head = reverse(head);
-        ListNode* temp = head;
+        ListNode *res = new ListNode(0);
+        res->next = head;
+        ListNode *dummy = res;
 
-        while(n>1) {
-            temp = temp->next;
-            n--;
+        for (int i = 0; i < n; i++)
+        {
+            head = head->next;
         }
 
-        if(temp->next==NULL) {
-            head = reverse(head);
-            return head->next;
+        while (head != NULL)
+        {
+            head = head->next;
+            dummy = dummy->next;
         }
-        temp->val = temp->next->val;
-        temp->next = temp->next->next;
-        head = reverse(head);
 
-        return head;
+        dummy->next = dummy->next->next;
+
+        return res->next;
     }
 };
