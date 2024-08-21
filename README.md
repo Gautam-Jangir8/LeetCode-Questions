@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
