@@ -10,12 +10,12 @@ public:
 
         int ans = 0;
         sort(vec.begin(), vec.end(), greater<int>());
-        int cnt = 1;
+        int cnt = 0;
         int temp = 1;
         for(auto i: vec) {
-            if(cnt>8) {
+            if(cnt==8) {
                 temp++;
-                cnt = 1;
+                cnt = 0;
             }
             if(i>0) {
                 cnt++;
