@@ -1,38 +1,45 @@
 class Solution {
 public:
-    bool checkorder(char a, char b, string& order) {
-        int indexA = -1, indexB = -1;
-
-        for(int i=0; i<order.length(); i++) {
-            if(order[i]==a) {
-                indexA = i;
-            }
-            if(order[i]==b) {
-                indexB = i;
-            }
-        }
-
-        return indexA<indexB;
-    }
 
     bool isAlienSorted(vector<string>& words, string order) {
-        for(int i=0; i<words.size()-1; i++) {
-            string s1 = words[i];
-            string s2 = words[i+1];
+        // If there is only one word to check then, its not valid, minimum two words are required to finnd the order
+        if (words.size() == 1)
+        {
+            return true;
+        }
 
-            int len = max(s1.size(), s2.size());
-            bool foundDifference = false;
-            for(int ptr=0; ptr<len; ptr++) {
-                if(s1[ptr]!=s2[ptr]) {
-                    if(!checkorder(s1[ptr], s2[ptr], order)) {
+        // character and their rank is stored in the map
+        unordered_map<char, int> mp;
+        for (int i = 0; i < order.size(); i++)
+        {
+            mp[order[i]] = i;
+        }
+
+        // Traversing the array
+        for (int i = 0; i < words.size() - 1; i++)
+        {
+            // Traverse each character in a word
+            for (int j = 0; j < words[i].size(); j++)
+            {
+                // If all the words has matched so far and current word length is longer then the next word, then return false
+                if (j >= words[i + 1].size())
+                {
+                    return false;
+                }
+
+                // Checking if letters in the same position in two words are different
+                if (words[i][j] != words[i + 1][j])
+                {
+                    // Checkif the rank of the word in teh curren t word is greater then the same same charcter in the other word
+                    if (mp[words[i][j]] > mp[words[i + 1][j]])
+                    {
                         return false;
                     }
-                    foundDifference = true;
-                    break;
+                    else
+                    {
+                        break;
+                    }
                 }
-            }
-            if(!foundDifference && s1.size() > s2.size()) { // case of apple comes before app
-                return false;
             }
         }
 
