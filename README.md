@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
