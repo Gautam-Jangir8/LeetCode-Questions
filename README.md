@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2058-concatenation-of-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2411-spiral-matrix-iv) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0921-spiral-matrix-iii) |
+| [2058-concatenation-of-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2411-spiral-matrix-iv) |
 ## Depth-First Search
 |  |
