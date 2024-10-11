@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1617-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -428,10 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1617-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
