@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1685-stone-game-v](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1685-stone-game-v) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2058-concatenation-of-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1685-stone-game-v) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1685-stone-game-v) |
 ## Game Theory
 |  |
 | ------- |
@@ -437,4 +440,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1685-stone-game-v) |
 <!---LeetCode Topics End-->
