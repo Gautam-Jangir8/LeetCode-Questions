@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1685-stone-game-v](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1685-stone-game-v) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2058-concatenation-of-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1217-relative-sort-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1685-stone-game-v) |
+| [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0502-ipo) |
 | [0890-lemonade-change](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
+| [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 ## Merge Sort
 |  |
 | ------- |
@@ -441,4 +446,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1685-stone-game-v) |
+| [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 <!---LeetCode Topics End-->
