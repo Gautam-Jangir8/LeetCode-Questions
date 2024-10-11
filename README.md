@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
+| [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -421,8 +423,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
