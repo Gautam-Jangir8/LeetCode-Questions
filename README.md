@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2411-spiral-matrix-iv) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
