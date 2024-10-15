@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0217-contains-duplicate) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1137-height-checker) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
