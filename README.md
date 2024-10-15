@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0909-stone-game) |
 | [0921-spiral-matrix-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
+| [0965-unique-email-addresses](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0965-unique-email-addresses) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0990-verifying-an-alien-dictionary) |
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0870-magic-squares-in-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
+| [0965-unique-email-addresses](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0990-verifying-an-alien-dictionary) |
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0664-strange-printer) |
+| [0965-unique-email-addresses](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1508-longest-happy-prefix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
