@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1304-longest-happy-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0664-strange-printer) |
 | [0965-unique-email-addresses](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1304-longest-happy-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1508-longest-happy-prefix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
