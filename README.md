@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
