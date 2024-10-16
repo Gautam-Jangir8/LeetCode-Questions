@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0870-magic-squares-in-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0909-stone-game) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
