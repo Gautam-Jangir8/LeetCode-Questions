@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0909-stone-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0816-design-hashset](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0965-unique-email-addresses](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1765-merge-in-between-linked-lists) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0838-design-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0817-design-hashmap) |
 | [1508-longest-happy-prefix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
 ## Enumeration
 |  |
