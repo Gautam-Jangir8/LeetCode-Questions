@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0330-patching-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0838-design-linked-list) |
 ## Doubly-Linked List
