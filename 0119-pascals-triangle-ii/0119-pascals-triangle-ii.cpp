@@ -1,20 +1,14 @@
 class Solution {
 public:
-    int nCr(int n, int r) {
-        long long ans = 1;
-
-        for(int i=0; i<r; i++) {
-            ans*=n-i;
-            ans/=i+1;
-        }
-
-        return (int)ans;
-    }
-
     vector<int> getRow(int rowIndex) {
-        vector<int>ans;
-        for(int i=0; i<=rowIndex; i++) {
-            ans.push_back(nCr(rowIndex, i)); 
+        vector<int> ans;
+        ans.push_back(1);
+        long long temp = 1;
+        for (int i = 0; i < rowIndex; i++)
+        {
+            temp *= rowIndex-i;
+            temp /= i+1;
+            ans.push_back((int)temp);
         }
 
         return ans;
