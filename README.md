@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1808-stone-game-vii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2002-stone-game-viii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2002-stone-game-viii) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
