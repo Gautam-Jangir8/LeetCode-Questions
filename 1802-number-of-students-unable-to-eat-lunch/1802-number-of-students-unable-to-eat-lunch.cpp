@@ -19,8 +19,8 @@ public:
             } else {
                 dq.push_back(dq.front());
                 dq.pop_front();
+                cnt++;
             }
-            cnt++;
         }
 
         return dq.size();
