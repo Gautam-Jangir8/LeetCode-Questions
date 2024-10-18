@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1547-destination-city) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
