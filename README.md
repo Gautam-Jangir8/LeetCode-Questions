@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
 | [1685-stone-game-v](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1685-stone-game-v) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1694-make-sum-divisible-by-p](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1808-stone-game-vii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1808-stone-game-vii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
+| [1694-make-sum-divisible-by-p](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1694-make-sum-divisible-by-p](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2002-stone-game-viii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2002-stone-game-viii) |
 ## Counting Sort
