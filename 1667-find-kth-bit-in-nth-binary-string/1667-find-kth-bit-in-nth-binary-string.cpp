@@ -1,26 +1,26 @@
 class Solution {
 public:
-    string recursion(string temp, int n) {
-        if(n==0) {
-            return temp;
-        }
+    char findKthBit(int n, int k)
+{
+    // Base case: When n = 1, the binary string is "0"
+    if (n == 1)
+        return '0';
 
-        string rev = temp;
-        for(int i=0; i<rev.size(); i++){
-            if(rev[i]=='0') {
-                rev[i] = '1';
-            } else {
-                rev[i] = '0';
-            }
-        }
-        reverse(rev.begin(), rev.end());
-        temp = temp+"1"+rev;
-        return recursion(temp, n-1);
-    }
+    // Find the length of the current string Sn, which is 2^n - 1
+    int length = (1 << n) - 1;
 
-    char findKthBit(int n, int k) {
-        string str = recursion("0", n-1);
+    // Find the middle position
+    int mid = length / 2 + 1;
 
-        return str[k-1];
-    }
+    // If k is the middle position, return '1'
+    if (k == mid)
+        return '1';
+
+    // If k is in the first half, find the bit in Sn-1
+    if (k < mid)
+        return findKthBit(n - 1, k);
+
+    // If k is in the second half, find the bit in Sn-1 and invert it
+    return findKthBit(n - 1, length - k + 1) == '0' ? '1' : '0';
+}
 };
