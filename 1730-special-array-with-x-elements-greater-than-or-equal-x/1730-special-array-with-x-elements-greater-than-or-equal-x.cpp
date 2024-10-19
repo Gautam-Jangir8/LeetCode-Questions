@@ -2,8 +2,6 @@ class Solution {
 public:
     int specialArray(vector<int>& nums) {
         int n = nums.size();
-        // Element will be in sorted order
-        sort(nums.begin(), nums.end());
 
         // Applying Binary Search on this array
         int start = 0, end = n;
