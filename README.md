@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1547-destination-city) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0921-spiral-matrix-iii) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
