@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1197-parsing-a-boolean-expression](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1297-maximum-number-of-balloons](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1508-longest-happy-prefix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
+| [1197-parsing-a-boolean-expression](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2573-remove-nodes-from-linked-list) |
