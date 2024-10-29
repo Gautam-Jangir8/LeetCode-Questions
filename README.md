@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2411-spiral-matrix-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-stone-game-v](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1685-stone-game-v) |
 | [1808-stone-game-vii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1808-stone-game-vii) |
 | [2002-stone-game-viii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2002-stone-game-viii) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
