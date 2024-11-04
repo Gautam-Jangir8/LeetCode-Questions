@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2002-stone-game-viii) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
+| [2156-stone-game-ix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2156-stone-game-ix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1808-stone-game-vii) |
 | [2002-stone-game-viii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2002-stone-game-viii) |
+| [2156-stone-game-ix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2156-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2156-stone-game-ix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2156-stone-game-ix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2156-stone-game-ix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2156-stone-game-ix) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1808-stone-game-vii) |
 | [2002-stone-game-viii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2002-stone-game-viii) |
+| [2156-stone-game-ix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2156-stone-game-ix) |
 ## Trie
 |  |
 | ------- |
