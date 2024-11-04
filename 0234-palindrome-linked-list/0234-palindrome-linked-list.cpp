@@ -10,9 +10,9 @@
  */
 class Solution {
 public:
-    ListNode* reverseLL(ListNode* head) {
-        ListNode* curr = head;
+    ListNode* reverse(ListNode* head) {
         ListNode* prev = NULL;
+        ListNode* curr = head;
         ListNode* nex;
 
         while(curr!=NULL) {
@@ -26,23 +26,27 @@ public:
     }
 
     bool isPalindrome(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
-
-        while(fast->next!=NULL && fast->next->next!=NULL) {
-            slow = slow->next;
-            fast = fast->next->next;
+        ListNode* temp = head;
+        vector<int>before;
+        while(temp!=NULL) {
+            before.push_back(temp->val);
+            temp = temp->next;
         }
 
-        ListNode* temp = reverseLL(slow->next);
-        slow->next = NULL;
+        ListNode* newHead = reverse(head);
+        vector<int>after;
+        temp = newHead;
+        while(temp!=NULL) {
+            after.push_back(temp->val);
+            temp = temp->next;
+        }
 
-        while(temp!=NULL && head!=NULL) {
-            if(temp->val != head->val) {
+        for(int i=0; i<after.size(); i++) {
+            cout<<after[i]<<" ";
+            cout<<before[i]<<" ";
+            if(after[i]!=before[i]) {
                 return false;
             }
-            head = head->next;
-            temp = temp->next;
         }
 
         return true;
