@@ -17,6 +17,7 @@ public:
         }
         if(root->left==NULL && root->right == NULL) {
             ans.push_back(root->val);
+            return;
         }
         inorder(root->left, ans);
         inorder(root->right, ans);
