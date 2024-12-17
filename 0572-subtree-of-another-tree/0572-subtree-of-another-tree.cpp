@@ -11,50 +11,65 @@
  */
 class Solution {
 public:
-    bool isSameTree(TreeNode *p, TreeNode *q)
+void preorder(TreeNode *root, queue<TreeNode *> &q, int val)
+{
+    if (!root)
     {
-        if (p == NULL && q == NULL)
-        {
-            return true;
-        }
-        if (p == NULL || q == NULL)
-        {
-            return false;
-        }
+        return;
+    }
 
-        if (p->val != q->val)
-        {
-            return false;
-        }
+    if (root->val == val)
+    {
+        q.push(root);
+    }
 
-        if (isSameTree(p->left, q->left) == false)
-        {
-            return false;
-        }
-        if (isSameTree(p->right, q->right) == false)
-        {
-            return false;
-        }
+    preorder(root->left, q, val);
+    preorder(root->right, q, val);
+}
 
+bool isSame(TreeNode *first, TreeNode *second)
+{
+    if (first == NULL && second == NULL)
+    {
+        return true;
+    }
+    if (first == NULL || second == NULL)
+    {
+        return false;
+    }
+
+    if (first->val != second->val)
+    {
+        return false;
+    }
+
+    return isSame(first->left, second->left) && isSame(first->right, second->right);
+}
+
+bool isSubtree(TreeNode *root, TreeNode *subRoot)
+{
+    if (subRoot == NULL)
+    {
         return true;
     }
 
-    void inorder(TreeNode* root, TreeNode* subRoot, bool & temp) {
-        if(root==NULL) {
-            return;
-        }
+    int val = subRoot->val;
+    queue<TreeNode *> q;
+    TreeNode *temp = root;
+    preorder(temp, q, val); // Store all the occurance of root element of subRoot tree in queue and then match both the tree are same or not
 
-        if(isSameTree(root, subRoot)) {
-            temp = true;
+    while (!q.empty())
+    {
+        TreeNode *first = q.front();
+        q.pop();
+        TreeNode *second = subRoot;
+
+        if (isSame(first, second))
+        {
+            return true;
         }
-        inorder(root->left, subRoot, temp);
-        inorder(root->right, subRoot, temp);
     }
 
-    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        bool temp = false;
-        inorder(root, subRoot, temp);
-
-        return temp;
-    }
+    return false;
+}
 };
