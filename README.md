@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0564-find-the-closest-palindrome](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0606-construct-string-from-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0664-strange-printer](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0965-unique-email-addresses](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0965-unique-email-addresses) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
