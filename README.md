@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
