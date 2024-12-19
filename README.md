@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [0772-construct-quad-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0772-construct-quad-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0772-construct-quad-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0772-construct-quad-tree) |
 | [0870-magic-squares-in-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
+| [0772-construct-quad-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0772-construct-quad-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
