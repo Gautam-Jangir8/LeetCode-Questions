@@ -1,23 +1,27 @@
 class Solution {
 public:
-    int dfs(map<int, vector<int>>&mp, vector<int>&informTime, int headId) {
-        int maxi = 0;
-        if(mp.find(headId)==mp.end()) {
-            return maxi;
-        }
-
-        for(int i=0; i<mp[headId].size(); i++) {
-            maxi = max(maxi, dfs(mp, informTime, mp[headId][i]));
-        }
-        return maxi+informTime[headId];
-    }
-
     int numOfMinutes(int n, int headID, vector<int>& manager, vector<int>& informTime) {
+        int ans = 0;
         map<int, vector<int>>mp;
         for(int i=0; i<manager.size(); i++) {
             mp[manager[i]].push_back(i);
         }
 
-        return dfs(mp, informTime, headID);
+        queue<pair<int, int>>q;
+        q.push({headID, informTime[headID]});
+        while(!q.empty()) {
+            pair<int, int>p = q.front();
+            q.pop();
+            ans = max(ans, p.second);
+
+            for(auto i: mp[p.first]) {
+
+                if(mp.find(i)!=mp.end()) {
+                    q.push({i, p.second+informTime[i]});
+                }
+            }
+        }
+
+        return ans;
     }
 };
