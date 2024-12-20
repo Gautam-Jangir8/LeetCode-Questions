@@ -12,48 +12,32 @@
 class Solution {
 public:
     bool isCompleteTree(TreeNode* root) {
-        vector<int>ans;
-        queue<TreeNode*>q;
+        queue<TreeNode *> q;
         q.push(root);
+        bool encounteredNULL = false;
 
-        while(!q.empty()) {
-            int n = q.size();
-            
-            for(int i=0; i<n; i++) {
-                TreeNode* front = q.front();
-                q.pop();
+        while (!q.empty())
+        {
+            TreeNode *front = q.front();
+            q.pop();
 
-                if(front->val==-1) {
-                    ans.push_back(front->val);
-                    continue;
+            if (front == NULL)
+            { // Mark that we have encountered a NULL node, if we find a not null node after this, then the tree is not complete
+                encounteredNULL = true;
+            }
+            else
+            {
+                // If we have already encountered a NULL node, the tree is not complete
+                if (encounteredNULL == true)
+                {
+                    return false;
                 }
-                ans.push_back(front->val);
-                if(front->left) {
-                    q.push(front->left);
-                } else {
-                    q.push(new TreeNode(-1));
-                }
-                if(front->right) {
-                    q.push(front->right);
-                } else {
-                    q.push(new TreeNode(-1));
-                }
+                // Add left and right children to the queue
+                q.push(front->left);
+                q.push(front->right);
             }
         }
 
-        bool res = true;
-        int j = ans.size()-1;
-        while(ans[j]==-1) {
-            j--;
-        }
-        while(j>0) {
-            if(ans[j]==-1) {
-                res = false;
-                break;
-            }
-            j--;
-        }
-
-        return res;
+        return true;
     }
 };
