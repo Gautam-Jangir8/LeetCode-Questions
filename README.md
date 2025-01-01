@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0100-same-tree) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -678,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0100-same-tree) |
@@ -757,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
