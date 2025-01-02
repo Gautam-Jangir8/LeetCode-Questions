@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2002-stone-game-viii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2002-stone-game-viii) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2058-concatenation-of-array) |
+| [2104-operations-on-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2104-operations-on-tree) |
 | [2156-stone-game-ix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2156-stone-game-ix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2104-operations-on-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2104-operations-on-tree) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0838-design-linked-list) |
+| [2104-operations-on-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2104-operations-on-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2104-operations-on-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2104-operations-on-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2104-operations-on-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2104-operations-on-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -668,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2104-operations-on-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2104-operations-on-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
