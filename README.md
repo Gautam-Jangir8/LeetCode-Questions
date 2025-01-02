@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
+| [0198-house-robber](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0650-2-keys-keyboard) |
