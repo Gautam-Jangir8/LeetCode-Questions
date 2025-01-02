@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2411-spiral-matrix-iv) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2002-stone-game-viii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2002-stone-game-viii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting Sort
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3195-separate-black-and-white-balls](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
