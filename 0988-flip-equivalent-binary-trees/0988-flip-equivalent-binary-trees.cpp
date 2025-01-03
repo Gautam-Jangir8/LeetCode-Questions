@@ -15,14 +15,12 @@ public:
         if(root1==NULL && root2==NULL) {
             return true;
         }
-        // If Either one of them is NULL, return false
-        if(root1==NULL || root2==NULL) {
+        if(root1==NULL || root2==NULL || root1->val != root2->val) {
             return false;
         }
-        if(root1->val!=root2->val) {
-            return false;
-        }
-
-        return (flipEquiv(root1->left, root2->right) && flipEquiv(root1->right, root2->left)) || (flipEquiv(root1->left, root2->left) && flipEquiv(root1->right, root2->right));  
+        
+         // Check equivalence without flipping or with flipping
+        return (flipEquiv(root1->left, root2->left) && flipEquiv(root1->right, root2->right)) ||
+           (flipEquiv(root1->left, root2->right) && flipEquiv(root1->right, root2->left));
     }
 };
