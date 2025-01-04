@@ -31,10 +31,7 @@ public:
 
         temp.push_back(root->val+'a');
         inorder(root->left, temp, ans);
-        temp.pop_back();
-        temp.push_back(root->val+'a');
         inorder(root->right, temp, ans);
-        temp.pop_back();
     }
 
     string smallestFromLeaf(TreeNode* root) {
