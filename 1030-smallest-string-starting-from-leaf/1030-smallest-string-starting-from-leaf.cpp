@@ -20,12 +20,9 @@ public:
             string str = temp;
             reverse(str.begin(), str.end());
             
-            if(ans=="") {
+            if(ans=="" || str<ans) {
                 ans = str;
-            } else{
-                ans = min(ans, str);
-            }
-            
+            } 
             return;
         }
 
