@@ -10,7 +10,7 @@ public:
 
         for(int i=0; i<n; i++) {
             for(int j=i+1; j<n; j++) {
-                if(words[i].find(words[j])!=string::npos) {
+                if(words[i].find(words[j])!=-1) {
                     ans.push_back(words[j]);
                 }
             }
