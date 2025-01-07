@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
+| [1524-string-matching-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1508-longest-happy-prefix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
+| [1524-string-matching-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1547-destination-city) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
+| [1524-string-matching-in-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
