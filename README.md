@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2358-number-of-ways-to-split-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2411-spiral-matrix-iv) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Matrix
 |  |
 | ------- |
@@ -860,4 +862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
