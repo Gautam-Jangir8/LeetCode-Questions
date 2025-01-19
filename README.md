@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
