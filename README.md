@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1275-validate-binary-tree-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1035-cousins-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1275-validate-binary-tree-nodes) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
+| [1275-validate-binary-tree-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1275-validate-binary-tree-nodes) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1275-validate-binary-tree-nodes) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -764,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1275-validate-binary-tree-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1275-validate-binary-tree-nodes) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -777,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1275-validate-binary-tree-nodes) |
 | [1325-path-with-maximum-probability](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
