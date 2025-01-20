@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0392-is-subsequence) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0816-design-hashset) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
@@ -776,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
