@@ -11,12 +11,17 @@
  */
 class Solution {
 public:
+    map<pair<int, int>, vector<TreeNode*>>dp;
     vector<TreeNode*> generateTreesDistinct(int start, int end) {
         if(start>end) {
             return {NULL};
         }
         if(start==end) {
             return {new TreeNode(start)};
+        }
+
+        if(dp.find({start, end})!=dp.end()) {
+            return dp[{start, end}];
         }
 
         vector<TreeNode*>res;
@@ -37,7 +42,7 @@ public:
 
         }
 
-        return res;
+        return dp[{start, end}] = res;
     }
 
     vector<TreeNode*> generateTrees(int n) {
