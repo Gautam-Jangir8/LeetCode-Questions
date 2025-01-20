@@ -11,36 +11,36 @@
  */
 class Solution {
 public:
-    vector<TreeNode*> solve(int start, int end) {
+    vector<TreeNode*> generateTreesDistinct(int start, int end) {
         if(start>end) {
             return {NULL};
         }
         if(start==end) {
-            TreeNode* root = new TreeNode(start);
-            return {root};
+            return {new TreeNode(start)};
         }
 
-        vector<TreeNode*>result;
+        vector<TreeNode*>res;
         // Har node ko root banana ki kosis karanga
         for(int i=start; i<=end; i++) {
-            vector<TreeNode*>left_bst = solve(start, i-1);
-            vector<TreeNode*>right_bst = solve(i+1, end);
-        
-            for(auto leftRoot : left_bst) {
-                for(auto rightRoot : right_bst) {
-                    TreeNode* root = new TreeNode(i);
-                    root->left = leftRoot;
-                    root->right = rightRoot;
+            vector<TreeNode*>left = generateTreesDistinct(start, i-1);
+            vector<TreeNode*>right = generateTreesDistinct(i+1, end);
 
-                    result.push_back(root);
+            for(auto l: left) {
+                for(auto r: right) {
+                    TreeNode* root = new TreeNode(i);
+                    root->left = l;
+                    root->right = r;
+
+                    res.push_back(root);
                 }
             }
+
         }
 
-        return result;
+        return res;
     }
 
     vector<TreeNode*> generateTrees(int n) {
-        return solve(1, n);
+        return generateTreesDistinct(1, n);
     }
 };
