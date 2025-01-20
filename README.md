@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
+| [0930-all-possible-full-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0930-all-possible-full-binary-trees) |
 | [1197-parsing-a-boolean-expression](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2573-remove-nodes-from-linked-list) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
+| [0930-all-possible-full-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
+| [0930-all-possible-full-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0930-all-possible-full-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0909-stone-game) |
+| [0930-all-possible-full-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0930-all-possible-full-binary-trees) |
 | [1240-stone-game-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1617-stone-game-iv) |
@@ -913,4 +917,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Memoization
+|  |
+| ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0930-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
