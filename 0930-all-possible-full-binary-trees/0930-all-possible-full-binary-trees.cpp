@@ -25,7 +25,7 @@ public:
         }
 
         vector<TreeNode*>ans;
-        for(int i=1; i<n; i++) {
+        for(int i=1; i<n; i+=2) {
             vector<TreeNode*>left = allPossibleFBT(i);
             vector<TreeNode*>right = allPossibleFBT(n-i-1);
 
