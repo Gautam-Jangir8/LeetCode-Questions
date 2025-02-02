@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1788-stone-game-vi](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1788-stone-game-vi) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1808-stone-game-vii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1808-stone-game-vii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2002-stone-game-viii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2002-stone-game-viii) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2042-maximum-product-difference-between-two-pairs) |
