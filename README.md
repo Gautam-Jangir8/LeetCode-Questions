@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1297-maximum-number-of-balloons) |
 | [1547-destination-city](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1547-destination-city) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1635-number-of-good-pairs) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2104-operations-on-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2104-operations-on-tree) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1275-validate-binary-tree-nodes) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1731-even-odd-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1731-even-odd-tree) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1731-even-odd-tree) |
 | [2104-operations-on-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/2104-operations-on-tree) |
