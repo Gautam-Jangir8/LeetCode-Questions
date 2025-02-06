@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0605-can-place-flowers](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0772-construct-quad-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0816-design-hashset) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0772-construct-quad-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0772-construct-quad-tree) |
 | [0870-magic-squares-in-grid](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0921-spiral-matrix-iii) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0669-trim-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0904-leaf-similar-trees) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1275-validate-binary-tree-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1275-validate-binary-tree-nodes) |
 ## Strongly Connected Component
