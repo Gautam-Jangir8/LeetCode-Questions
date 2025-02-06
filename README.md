@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0990-verifying-an-alien-dictionary) |
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1039-find-the-town-judge](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1217-relative-sort-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0990-verifying-an-alien-dictionary) |
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1039-find-the-town-judge](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1039-find-the-town-judge) |
 | [1275-validate-binary-tree-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1275-validate-binary-tree-nodes) |
 | [1325-path-with-maximum-probability](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
