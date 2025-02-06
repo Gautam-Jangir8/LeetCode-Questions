@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0217-contains-duplicate) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0772-construct-quad-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0772-construct-quad-tree) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1275-validate-binary-tree-nodes](https://github.com/Gautam-Jangir8/LeetCode-Questions/tree/master/1275-validate-binary-tree-nodes) |
 ## Strongly Connected Component
