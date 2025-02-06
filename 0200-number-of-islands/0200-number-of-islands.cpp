@@ -1,5 +1,17 @@
 class Solution {
 public:
+    void dfs(int row, int col, vector<vector<char>>& grid, vector<vector<int>>& vis) {
+        if(row<0 || col<0 || row>=grid.size() || col>=grid[0].size() || grid[row][col]=='0' || vis[row][col]==1) {
+            return;
+        }
+
+        vis[row][col] = 1;
+        dfs(row+1, col, grid, vis);
+        dfs(row-1, col, grid, vis);
+        dfs(row, col+1, grid, vis);
+        dfs(row, col-1, grid, vis);
+    }
+
     int numIslands(vector<vector<char>>& grid) {
         int ans = 0;
         int rows = grid.size();
@@ -11,25 +23,7 @@ public:
                 if(!vis[r][c] && grid[r][c]=='1') {
                     ans++;
 
-                    int dx[4] = {1, 0, -1, 0};
-                    int dy[4] = {0, 1, 0, -1};
-                    queue<pair<int ,int>>q;
-                    q.push({r, c});
-
-                    while(!q.empty()) {
-                        auto [x, y] = q.front();
-                        q.pop();
-
-                        for(int i=0; i<4; i++) {
-                            int newX = x + dx[i];
-                            int newY = y + dy[i];
-
-                            if(newX>=0 && newY>=0 && newX<rows && newY<cols && grid[newX][newY]=='1' && !vis[newX][newY]) {
-                                vis[newX][newY] = 1;
-                                q.push({newX, newY});
-                            }
-                        }
-                    }
+                    dfs(r, c, grid, vis);
                 }
             }
         }
